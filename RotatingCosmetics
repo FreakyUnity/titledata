@@ -1,0 +1,38 @@
+"TOTD": [
+		{
+			"PedestalID": "CosmeticStand1",
+			"ItemName": Cosmetic1,
+			"StartTimeUTC": "2025-05-09T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-16T22:00:00.000Z"
+		},
+		{
+			"PedestalID": "CosmeticStand2",
+			"ItemName": Cosmetic2,
+			"StartTimeUTC": "2025-05-09T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-16T22:00:00.000Z"
+		},
+		{
+			"PedestalID": "CosmeticStand3",
+			"ItemName": Cosmetic3,
+			"StartTimeUTC": "2025-05-09T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-16T22:00:00.000Z"
+		},
+		{
+			"PedestalID": "CosmeticStand1",
+			"ItemName": Cosmetic4,
+			"StartTimeUTC": "2025-05-16T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-23T22:00:00.000Z"
+		},
+		{
+			"PedestalID": "CosmeticStand2",
+			"ItemName": Cosmetic5,
+			"StartTimeUTC": "2025-05-16T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-23T22:00:00.000Z"
+		},
+		{
+			"PedestalID": "CosmeticStand3",
+			"ItemName": "LBAAK.",
+			"StartTimeUTC": "2025-05-16T22:00:00.000Z",
+			"EndTimeUTC": "2029-05-23T22:00:00.000Z"
+		}
+	],
